@@ -22,6 +22,8 @@
   "LogFile": "/app/go/trojan_go.log",
   "ssl": {
     "cert": "/app/go/ssl/gfw.com.crt",
-    "key": "/app/go/ssl/gfw.com.key"
+    "key": "/app/go/ssl/gfw.com.key",
+    "sni": "*.gfw.com",
+    "verify_hostname": false
   }
 }
