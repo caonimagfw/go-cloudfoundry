@@ -6,12 +6,10 @@
   "remote_port": 8099,
   "dns": [
     "8.8.8.8",
-    "8.8.4.4",
-    "114.114.114.114"
+    "8.8.4.4"
   ],
-  "buffer_size": 32,
   "tcp": {
-    "no_delay": true,
+    "no_delay": false,
     "keep_alive": false,
     "reuse_port": false,
     "fast_open": false
