@@ -20,7 +20,7 @@
     "1234abcd",
     "caonima2020"
   ],
-  "log_level": 1,
+  "log_level": 3,
   "LogFile": "/app/go/trojan_go.log",
   "ssl": {
     "cert": "/app/go/ssl/gfw.com.crt",
