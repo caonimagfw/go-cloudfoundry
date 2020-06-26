@@ -1,0 +1,4 @@
+:8099 {
+    root /app/go/www
+    gzip
+}

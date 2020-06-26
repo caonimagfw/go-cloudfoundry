@@ -2,7 +2,7 @@
   "run_type": "server",
   "local_addr": "0.0.0.0",
   "local_port": 8080,
-  "remote_addr": "cc-doc.bmwpay.net",
+  "remote_addr": "127.0.0.1",
   "remote_port": 8099,
   "dns": [
     "8.8.8.8",
