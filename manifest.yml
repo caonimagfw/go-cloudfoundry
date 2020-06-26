@@ -3,3 +3,4 @@ applications:
   name: t
   random-route: true
   memory: 128M
+  timeout: 600
